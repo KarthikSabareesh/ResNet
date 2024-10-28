@@ -23,6 +23,7 @@ This result H(x) is then passed to the next layer.
 
 ## ResNet architecture
 
+
 ![image](https://github.com/user-attachments/assets/c5e2f1e4-6665-4afd-978b-8b2d8d76ec51)
 
 
