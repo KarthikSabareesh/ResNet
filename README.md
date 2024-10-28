@@ -39,7 +39,8 @@ This result H(x) is then passed to the next layer.
 * Modularity and Flexibility: ResNet serves as a foundation for many variations and derivative models (e.g., ResNeXt, SE-ResNet), allowing customization based on the task at hand, from lightweight versions for mobile devices to deeper versions for high-performance applications.
 
 * Efficient Computation: Despite their depth, ResNet models are computationally efficient due to residual connections, which make it easier for gradients to propagate, thereby reducing the need for frequent weight updates in all layers.
-* 
+
+  
 ## Applications of ResNet
 
 * Image Classification: ResNet has set benchmarks in image classification, achieving top performances on datasets like ImageNet. Its ability to learn deep hierarchical representations makes it ideal for complex classification tasks in various fields like medical imaging, security, and self-driving cars.
